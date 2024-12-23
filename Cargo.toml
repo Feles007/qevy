@@ -1,7 +1,7 @@
 workspace = { members = ["qevy-derive", "qevy-types"] }
 [package]
 name = "qevy"
-version = "0.3.0"
+version = "0.4.0"
 edition = "2021"
 repository = "https://github.com/BrianWiz/qevy"
 description = "Quake .map files for the Bevy game engine."
