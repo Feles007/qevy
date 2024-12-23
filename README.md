@@ -2,7 +2,7 @@
 ## A plugin that adds Quake .map file support for the Bevy game engine
 
 Supported Bevy Versions: 0.13
-Supported Physics Engines: XPBD, Rapier
+Supported Physics Engines: Avian, Rapier
 
 # Features
 - [x] Geometry ✔️
